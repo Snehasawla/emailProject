@@ -1,0 +1,49 @@
+{
+    "login": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@abc.com",
+        "password": "12345678",
+        "gender": "Male",
+        "status": "Terminated"
+      },
+      {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "email": "janedoe@abc.com",
+        "password": "janedoe",
+        "gender": "Female",
+        "status": "New"
+      },
+      {
+        "id": 3,
+        "first_name": "Alice",
+        "last_name": "Doe",
+        "email": "alicedoe@abc.com",
+        "password": "1234@abc",
+        "gender": "Female",
+        "status": "Leaving"
+      },
+      {
+        "id": 4,
+        "first_name": "Bob",
+        "last_name": "Doe",
+        "email": "bobdoe@abc.com",
+        "password": "Bob@doe",
+        "gender": "Male",
+        "status": "Active"
+      },
+      {
+        "id": 5,
+        "first_name": "sneha",
+        "last_name": "sawla",
+        "email": "sneha@sketchish.in",
+        "password": "test",
+        "gender": "Male",
+        "status": "Terminated"
+      }
+    ]
+  }

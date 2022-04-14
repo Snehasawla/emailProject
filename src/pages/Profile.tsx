@@ -13,7 +13,7 @@ export default function Profile() {
   const user = JSON.parse(localStorage.getItem("user") || "");
   const keydata = localStorage.key(1)
   console.log('keydata',keydata)
-   const email = keydata ? JSON.parse(localStorage.getItem("em  ail") || "") : ""
+   const email = keydata ? JSON.parse(localStorage.getItem("email") || "") : ""
   const { recipient, body, subject } = email;
   const newData = emailParse(recipient, body, subject);
 
